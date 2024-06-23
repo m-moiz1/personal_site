@@ -12,7 +12,7 @@ bibliography: references.bib
 # appendix-cite-as: display
 favicon: "favicon.svg"
 # twitter-card: true
-site-url: "https://cs.utexas.edu/~mmuaz"
+site-url: "https://mmoiz.github.io"
 google-scholar: true
 citeproc: true
 # filters:
@@ -33,7 +33,7 @@ project:
     port: 4209
 author:
   name: "Muhammad Muaz"
-  url: https://cs.utexas.edu/~mmuaz
+  url: https://mmoiz.github.io/
   email: m.muaz@utexas.edu
   # affiliation: Argonne National Laboratory
   # affiliation-url: https://alcf.anl.gov/about/people/sam-foreman
@@ -41,7 +41,7 @@ citation:
    author: Muhammad Muaz
    type: webpage
    title: "Personal Website"
-   url: https://cs.utexas.edu/~mmuaz
+   url: https://mmoiz.github.io
 execute:
   # keep-ipynb: true
   # keep-md: true

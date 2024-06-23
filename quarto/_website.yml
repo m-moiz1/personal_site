@@ -1,15 +1,15 @@
 website:
   # sidebar: true
-  title: "Muhammad Muaz"
+  title: "Muhammad Moiz"
   page-navigation: true
-  favicon: "./assets/UTshield1.png"
+  favicon: "./assets/NC_State_Logo.png"
   back-to-top-navigation: true
   # google-analytics: G-XVM2Y822Y1
   # gtag: G-E72QE53WSY
-  site-url: "https://www.cs.utexas.edu/~mmuaz/"
+  site-url: "https://mmoiz.github.io/"
   repo-actions: [source, edit, issue]
-  repo-url: https://github.com/m-muaz/personal_site
-  description: "Muhammad Muaz"
+  repo-url: https://github.com/m-moiz1/personal_site
+  description: "Muhammad Moiz"
   open-graph:
     title: "Muhammad Muaz"
     description: "A cozy place for my thoughts and achievements"
@@ -23,7 +23,8 @@ website:
   navbar:
     search: false
     # title: false
-    logo: "assets/UTshield1.png"
+    logo: "assets/NC_State_Logo.png"
+    logo-href: "https://www.ncsu.edu/"
     background: "rgba(34, 34, 34, 0.95)"
     foregound: "#838383"
     # tools:
@@ -36,7 +37,7 @@ website:
     #       - text: New Issue
     #         url: https://github.com/saforem2/personal_site/issues/new/choose
     left:
-      - text: "🪧 Posts"
+      - text: "📬 Posts"
         menu:
           # - text: "📬 All Posts"
           #   href: "./qmd/posts.qmd"
@@ -400,10 +401,10 @@ website:
 
 
   page-footer:
-    left: "Copyright 2024, Muhammad Muaz" 
-    right: "[cs.utexas.edu/~mmuaz](https://cs.utexas.edu/~mmuaz)"
+    left: "Copyright 2024, Muhammad Moiz" 
+    right: "[cs.utexas.edu/~mmuaz](https://mmoiz.github.io/)"
     center:
-      - href: https://cs.utexas.edu/~mmuaz
+      - href: https://mmoiz.github.io
         text: "[{{< fa solid home >}}]{style='font-size: 1.25em;'}"
 
       # - icon: github

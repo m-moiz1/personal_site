@@ -2,12 +2,12 @@
 date: ""
 # date-modified: "today"
 author: ""
-site-url: "https://cs.utexas.edu/~mmuaz/"
+site-url: "https://mmoiz.github.io/"
 citation:
    author: Muhammad Muaz
    type: webpage
    title: "Muhammad Muaz"
-   url: https://cs.utexas.edu/~mmuaz/
+   url: https://mmoiz.github.io/
 format:
   html:
     css:
